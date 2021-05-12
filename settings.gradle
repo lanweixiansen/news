@@ -1,0 +1,3 @@
+include ':jcvideoplayer-lib'
+include ':app'
+rootProject.name = "Stock News"

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="内容">16sp</dimen>
+    <dimen name="时间">12sp</dimen>
+    <dimen name="标题">20sp</dimen>
+    <dimen name="标题1">24sp</dimen>
+    <dimen name="标题2">10sp</dimen>
+</resources>

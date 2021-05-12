@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Rwhite">#EDEDED</color>
+    <color name="Rwhite2">#E4E4E4</color>
+    <color name="Rblack">#939393</color>
+    <color name="line">#E2E2E2</color>
+    <color name="concept">#FF8885</color>
+    <color name="cardView">#DCDCDC</color>
+    <color name="yellow1">#a56a3b</color>
+    <color name="blue1">#E5EDF9</color>
+    <color name="blue2">#3280DA</color>
+    <color name="green">#0C9F0D</color>
+    <color name="green2">#49AC4D</color>
+    <color name="green3">#82D468</color>
+    <color name="origin">#C95D3D</color>
+    <color name="index1">#EC808D</color>
+    <color name="index2">#FFDF25</color>
+    <color name="zong">#A56A3B</color>
+    <color name="历史记录">#DAA7FC</color>
+    <color name="收藏">#FF9C00</color>
+    <color name="更多">#FF6464</color>
+    <color name="设置">#756FF2</color>
+    <!--隐私政策用-->
+    <color name="privacy_color">#F44336</color>
+</resources>

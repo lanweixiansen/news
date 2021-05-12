@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">新闻速递</string>
+    <string name="xiwen">资讯</string>
+    <string name="redian">热点</string>
+    <string name="shipin">视频</string>
+    <string name="wode">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="InfOne">快讯</string>
+    <string name="InfTeo">新闻</string>
+    <string name="InfThree">日历</string>
+    <string name="时间">时间</string>
+    <string name="内容">内容</string>
+    <string name="日历提示语">重要性说明： 一般1-2颗星 重要3-5颗星</string>
+    <string name="设置提醒">设置提醒</string>
+    <string name="前值">前值：</string>
+    <string name="预期">预期：</string>
+    <string name="公布">公布：</string>
+    <string name="净流入">净流入</string>
+    <string name="免责声明">本软件为毕业设计项目，不用于商业用途，软件内容来源均为其他网站，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。</string>
+    <string name="加自选">加自选</string>
+    <string name="推荐准确率">推荐准确率：</string>
+    <string name="当日收盘价">当日收盘价：</string>
+    <string name="目标价">目标价：</string>
+    <string name="机会">机会</string>
+    <string name="利好">利好</string>
+    <string name="相关个股">相关个股：</string>
+    <string name="涨跌">涨跌：</string>
+    <string name="涨跌停">涨跌停：</string>
+    <string name="指数概览">指数概览</string>
+    <string name="指数涨跌幅">指数涨跌幅</string>
+    <string name="指数成交量">指数成交量</string>
+    <string name="指数成交额">指数成交额</string>
+    <string name="更多">更多</string>
+    <string name="异动">异动</string>
+    <string name="涨停">涨停</string>
+    <string name="跌停">跌停</string>
+    <string name="指数百分号">%</string>
+    <string name="执业编号">执业编号:</string>
+    <string name="分析师">分析师:</string>
+    <string name="加载中">加载中。。。</string>
+    <string name="yinsi">隐私政策</string>
+    <string name="guanyu">关于我</string>
+
+</resources>
